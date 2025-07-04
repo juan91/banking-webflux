@@ -13,12 +13,12 @@ spring:
     include: null
   data:
     mongodb:
-      uri: mongodb+srv://admin:I6vE5tmbEU5u4sI8@galeras.vjcyxol.mongodb.net/banking
+      uri: mongodb+srv://admin:a@galeras.vjcyxol.mongodb.net/banking
   rabbitmq:
     host: possum.lmq.cloudamqp.com
     port: 5671
     username: ltqlmrty
-    password: I9geTinkznSEzhMLw0SI7VTD0ERfuXJW
+    password: a
     virtual-host: ltqlmrty
     ssl:
       enabled: true
